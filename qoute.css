@@ -49,3 +49,19 @@ body {
   transition: background-color 0.3s;
 }
 
+
+@media screen and (max-width: 768px) {
+  .qoute-container {
+    padding: 2rem;
+  }
+  .qoute-text {
+    font-size: 2rem;
+  }
+  .qoute-author {
+    font-size: 1.25rem;
+  }
+  .btn {
+    font-size: 1.25rem;
+  }
+  
+}
