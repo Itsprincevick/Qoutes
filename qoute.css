@@ -51,6 +51,9 @@ body {
 
 
 @media screen and (max-width: 768px) {
+  body {
+    padding: 2rem;
+  }
   .qoute-container {
     padding: 2rem;
   }
